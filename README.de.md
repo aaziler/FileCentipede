@@ -38,8 +38,7 @@ Sponsoren:<http://www.filecxx.com/en_US/sponsors.html>
 
 #### Aufgabe bearbeiten
 
-![Edit task](images/screenshot_edit_task.png)
-![Edit task](images/screenshot_edit_task2.png)
+![Edit task](images/screenshot_edit_task.png)![Edit task](images/screenshot_edit_task2.png)
 
 #### Dialog bestätigen
 
@@ -135,7 +134,7 @@ Sponsoren:<http://www.filecxx.com/en_US/sponsors.html>
 -   Übersetzungstool 1.0
 -   HTTP-Tool 1.0
 -   URI-Kodierungs-/Dekodierungstool 1.0
--   Base64-Codierungs-/Decodierungstool 1.0
+-   Base64-Kodierungs-/Dekodierungstool 1.0
 -   Regex-Testtool 1.0
 -   Torrent 1.0 erstellen
 -   Torrent zum Magnet-Tool 1.0
