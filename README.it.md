@@ -113,7 +113,7 @@ Sponsor:<http://www.filecxx.com/en_US/sponsors.html>
 -   attività flusso m3u8 1.0
 -   Decrittografia AES-128 dell'attività di flusso (la decrittografia SAMPLE-AES non è ancora supportata) 1.0
 -   Cookie HTTP, header, user-agent con personalizzazione dell'utente 1.0
--   Limite seeding torrent 1.0
+-   Torrent seeding limit	1.0
 -   Modifica dinamicamente la configurazione dell'attività di trasferimento 1.0
 -   Anti sanguisughe 1.0
 -   Aggiorna indirizzo scaduto 1.0
@@ -147,7 +147,7 @@ Sponsor:<http://www.filecxx.com/en_US/sponsors.html>
 -   Protocollo WebDAV 2.0
 -   Carica file 2.0
 -   Carica directory 2.0
--   Scarica directory 2.0
+-   Download directory	2.0
 -   File manager WebDAV completo 2.0
 -   File manager completo FTP(s) 2.0
 -   File manager SSH (sftp) completo 2.0
@@ -190,7 +190,7 @@ Ciò renderà il software più accessibile alle persone che parlano lingue diver
 | Olandese            | [@kasikh](https://github.com/XIAA25)                                                      |
 | coreano             | [@VenereGirl](https://github.com/VenusGirl)                                               |
 | vietnamita          | [@vuongtuha](https://github.com/vuongtuha)                                                |
-| Turco               | [@geeede](https://github.com/geeede)                                                      |
+| Turco               | [@geeeee](https://github.com/geeede)                                                      |
 | indonesiano         | [@gigglylo](https://github.com/gigglylo)                                                  |
 
 ## Opensource libraries
