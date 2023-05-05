@@ -1,4 +1,4 @@
-[Anglais](./README.md)\|[Chinois simplifié](./README.zh-CN.md)\|[chinois traditionnel](./README.zh-TW.md)\|[coréen](./README.ko.md)\|[Non](./README.hi.md)\|[arabe](./README.ar.md)\|[Français](./README.fr.md)\|[russe](./README.ru.md)\|[Latin](./README.la.md)\|[Japonais](./README.ja.md)\|[italien](./README.it.md)\|[Allemand](./README.de.md)\|[Espagnol](./README.es.md)\|[suédois](./README.sv.md)
+[Anglais](./README.md)\|[Chinois simplifié](./README.zh-CN.md)\|[chinois traditionnel](./README.zh-TW.md)\|[한국어](./README.ko.md)\|[Non](./README.hi.md)\|[arabe](./README.ar.md)\|[Français](./README.fr.md)\|[russe](./README.ru.md)\|[Latin](./README.la.md)\|[Japonais](./README.ja.md)\|[italien](./README.it.md)\|[Allemand](./README.de.md)\|[Espagnol](./README.es.md)\|[suédois](./README.sv.md)
 
 ![image](https://user-images.githubusercontent.com/100348948/165334090-0b1a6f28-554e-484b-9946-1ffef010fa78.png)
 
@@ -26,7 +26,7 @@ Tableau de bord:<https://w.filecxx.com>
 
 Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 
-## Capture d'écran
+## Screenshot
 
 #### Fichier mille-pattes
 
@@ -107,7 +107,7 @@ Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 -   HTTP, protocole HTTPS (les fonctionnalités de base telles que gzip, reprise, multi-connexions ne seront pas répertoriées.) 1.0
 -   FTP, protocole FTPS 1.0
 -   Aimant, adresse HASH 1.0
--   BitTorrent 1.0
+-   BitTorrent	1.0
 -   Autre protocole personnalisé comme le tonnerre, flashget, qqdl 1.0
 -   Adresse au format JSON 1.0
 -   tâche de flux m3u8 1.0
@@ -120,7 +120,7 @@ Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 -   Catalogues 1.0
 -   Limite de téléchargement, vitesse de téléchargement 1.0
 -   Créer une adresse personnalisée (filec, fileu) 1.0
--   Gestion des proxys 1.0
+-   Gestion des procurations 1.0
 -   Filtre personnalisé 1.0
 -   Gestion des traqueurs 1.0
 -   Détails de la tâche 1.0
@@ -146,7 +146,7 @@ Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 -   curl, wget, aria2, ligne de commande axel 2.0
 -   Protocole WebDAV 2.0
 -   Téléchargez le fichier 2.0
--   Répertoire de téléchargement 2.0
+-   Upload directory	2.0
 -   Répertoire de téléchargement 2.0
 -   Gestionnaire de fichiers WebDAV(s) complet 2.0
 -   Gestionnaire de fichiers FTP(s) complet 2.0
@@ -190,7 +190,7 @@ Cela rendra le logiciel plus accessible aux personnes qui parlent des langues au
 | Néerlandais          | [@kasikh](https://github.com/XIAA25)                                                       |
 | coréen               | [@VenusGirl](https://github.com/VenusGirl)                                                 |
 | vietnamien           | [@vuongtuha](https://github.com/vuongtuha)                                                 |
-| turc                 | [@geeede](https://github.com/geeede)                                                       |
+| turc                 | [@geeeede](https://github.com/geeede)                                                      |
 | indonésien           | [@gigglylo](https://github.com/gigglylo)                                                   |
 
 ## Opensource libraries
