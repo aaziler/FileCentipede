@@ -143,7 +143,7 @@ Patrocinadores:<http://www.filecxx.com/en_US/sponsors.html>
 -   Estadísticas 1.0
 -   Descargar todos los enlaces de la página web 1.6
 -   SSH, protocolo SFTP 2.0
--   curl, wget, aria2, línea de comando axel 2.0
+-   curl, wget, aria2, axel command line	2.0
 -   Protocolo WebDAV 2.0
 -   Subir archivo 2.0
 -   Subir directorio 2.0
@@ -190,7 +190,7 @@ Esto hará que el software sea más accesible para las personas que hablan idiom
 | Holandés          | [@kasikh](https://github.com/XIAA25)                                                   |
 | coreano           | [@VenusGirl](https://github.com/VenusGirl)                                             |
 | vietnamita        | [@vongtuha](https://github.com/vuongtuha)                                              |
-| turco             | [@geeede](https://github.com/geeede)                                                   |
+| turco             | [@geeeede](https://github.com/geeede)                                                  |
 | indonesio         | [@gigglylo](https://github.com/gigglylo)                                               |
 
 ## Bibliotecas de código abierto
