@@ -16,7 +16,7 @@ File centipede は、オールインワンのインターネット ファイル 
 
 マルチプロトコルをサポートし、HTTP リクエスター、ファイル マージ、エンコーダーなどの多くの便利な補助ツールが含まれています。
 
-ブラウザとの統合により、Web サイトからオーディオやビデオ、さらには暗号化されたビデオをダウンロードできます。
+ブラウザの統合により、ウェブサイトからオーディオやビデオ、さらには暗号化されたビデオをダウンロードできます。
 
 （広告なしで無料です）
 
@@ -42,14 +42,13 @@ Webサイト：[ｈっｔｐ：／／ふぃぇｃっｘ。こｍ](http://filecxx
 
 #### 確認ダイアログ
 
-![torrent confirm](images/screenshot_torrent_confirm.png)
-![http confirm](images/screenshot_http_confirm.png)![links confirm](images/screenshot_links_confirm.png)
+![torrent confirm](images/screenshot_torrent_confirm.png)![http confirm](images/screenshot_http_confirm.png)![links confirm](images/screenshot_links_confirm.png)
 
 #### カタログを追加
 
 ![add catalog](images/screenshot_add_catalog.png)
 
-#### Settings
+#### 設定
 
 ![settings](images/screenshot_settings.png)
 
@@ -113,7 +112,7 @@ Webサイト：[ｈっｔｐ：／／ふぃぇｃっｘ。こｍ](http://filecxx
 -   JSON 形式のアドレス 1.0
 -   m3u8 ストリーム タスク 1.0
 -   ストリーム タスク AES-128 復号化 (SAMPLE-AES 復号化はまだサポートされていません) 1.0
--   HTTP Cookie、ヘッダー、ユーザー エージェントとユーザー カスタマイズ 1.0
+-   HTTP cookie、ヘッダー、user-agent (ユーザー カスタマイズ 1.0)
 -   トレントのシード制限 1.0
 -   transfer-task config 1.0 を動的に編集する
 -   抗ヒル 1.0
@@ -138,7 +137,7 @@ Webサイト：[ｈっｔｐ：／／ふぃぇｃっｘ。こｍ](http://filecxx
 -   Base64 エンコード/デコード ツール 1.0
 -   正規表現テスト ツール 1.0
 -   トレント 1.0 を作成する
--   Torrent to magnet ツール 1.0
+-   トレントからマグネットへのツール 1.0
 -   マグネット トレント ツール 1.0
 -   ファイル マージ ツール 1.0
 -   統計 1.0
@@ -171,7 +170,7 @@ C++ でのユーザー インターフェイスの作成は、パフォーマン
 
 このソフトウェアが気に入った場合は、ソフトウェアで提供されている翻訳ツールを使用して他の言語に翻訳することができます。
 
-これにより、ソフトウェアが最初に作成された言語以外の言語を話す人々にとって、ソフトウェアへのアクセスが容易になります。あなたの貢献は大歓迎です。
+This will make the software more accessible to people who speak languages other than the one it was originally written in. Your contribution would be greatly appreciated.
 
 ## 言語ファイル
 
@@ -191,7 +190,7 @@ C++ でのユーザー インターフェイスの作成は、パフォーマン
 | オランダの   | [@kasikh](https://github.com/XIAA25)                                                   |
 | 韓国語     | [@ヴィーナスガール](https://github.com/VenusGirl)                                              |
 | ベトナム語   | [@vuongtuha](https://github.com/vuongtuha)                                             |
-| トルコ語    | [@geeede](https://github.com/geeede)                                                   |
+| トルコ語    | [@geeeede](https://github.com/geeede)                                                  |
 | インドネシア語 | [@gigglylo](https://github.com/gigglylo)                                               |
 
 ## オープンソース ライブラリ
