@@ -185,7 +185,7 @@
 | لغة               | @                                                                                         |
 | :---------------- | :---------------------------------------------------------------------------------------- |
 | الروسية           | [@ فانجا سان](https://github.com/vanja-san)[هههههههههههه](https://github.com/Den1704)     |
-| الصينية التقليدية | [@bear0316](https://github.com/bear0316)[@ postman1year](https://github.com/postman1year) |
+| الصينية التقليدية | [@Bear0316](https://github.com/bear0316)[@ postman1year](https://github.com/postman1year) |
 | فرنسي             | [@كسائخ](https://github.com/XIAA25)                                                       |
 | هولندي            | [@كسائخ](https://github.com/XIAA25)                                                       |
 | الكورية           | [تضمين التغريدة](https://github.com/VenusGirl)                                            |
