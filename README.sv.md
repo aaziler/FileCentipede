@@ -1,4 +1,4 @@
-[engelsk](./README.md)\|[Förenklad kinesiska](./README.zh-CN.md)\|[traditionell kinesiska](./README.zh-TW.md)\|[koreanska](./README.ko.md)\|[Nej](./README.hi.md)\|[arabiska](./README.ar.md)\|[franska](./README.fr.md)\|[ryska](./README.ru.md)\|[latin](./README.la.md)\|[japanska](./README.ja.md)\|[italienska](./README.it.md)\|[tysk](./README.de.md)\|[spanska](./README.es.md)\|[svenska](./README.sv.md)
+[engelsk](./README.md)\|[Förenklad kinesiska](./README.zh-CN.md)\|[traditionell kinesiska](./README.zh-TW.md)\|[koreanska](./README.ko.md)\|[Nej](./README.hi.md)\|[arabiska](./README.ar.md)\|[Français](./README.fr.md)\|[ryska](./README.ru.md)\|[latin](./README.la.md)\|[japanska](./README.ja.md)\|[italienska](./README.it.md)\|[tysk](./README.de.md)\|[spanska](./README.es.md)\|[svenska](./README.sv.md)
 
 ![image](https://user-images.githubusercontent.com/100348948/165334090-0b1a6f28-554e-484b-9946-1ffef010fa78.png)
 
@@ -10,7 +10,7 @@
   <img src="./style/images/logo_128.png" width="128" alt="File Centipede Icon" />
 </a>
 
-File centipede är en allt-i-ett-hanterare för internetuppladdning/nedladdning, BitTorrent-klient, WebDAV-klient, FTP-klient och SSH-klient.
+Fil tusenfoting är en allt-i-ett-hanterare för internetuppladdning/nedladdning, BitTorrent-klient, WebDAV-klient, FTP-klient och SSH-klient.
 
 Den är designad för att vara snabb, anpassningsbar och användarvänlig.
 
@@ -182,16 +182,16 @@ Detta kommer att göra programvaran mer tillgänglig för personer som talar and
 
 ![translate](images/document/how_to_translate_this_website.png)
 
-| Språk                  | @                                                                                       |
-| :--------------------- | :-------------------------------------------------------------------------------------- |
-| ryska                  | [@vanja-san](https://github.com/vanja-san)[@Den1704](https://github.com/Den1704)        |
-| traditionell kinesiska | [@björn0316](https://github.com/bear0316)[@postman1år](https://github.com/postman1year) |
-| franska                | [@kasikh](https://github.com/XIAA25)                                                    |
-| holländska             | [@kasikh](https://github.com/XIAA25)                                                    |
-| koreanska              | [@VenusGirl](https://github.com/VenusGirl)                                              |
-| vietnamesiska          | [@vuongtuha](https://github.com/vuongtuha)                                              |
-| turkiska               | [@geeede](https://github.com/geeede)                                                    |
-| indonesiska            | [@fniss](https://github.com/gigglylo)                                                   |
+| Språk                  | @                                                                                        |
+| :--------------------- | :--------------------------------------------------------------------------------------- |
+| ryska                  | [@vanja-san](https://github.com/vanja-san)[@Den1704](https://github.com/Den1704)         |
+| traditionell kinesiska | [@björn0316](https://github.com/bear0316) [@postman1år](https://github.com/postman1year) |
+| franska                | [@kasikh](https://github.com/XIAA25)                                                     |
+| holländska             | [@kasikh](https://github.com/XIAA25)                                                     |
+| koreanska              | [@VenusGirl](https://github.com/VenusGirl)                                               |
+| vietnamesiska          | [@vuongtuha](https://github.com/vuongtuha)                                               |
+| turkiska               | [@geeeede](https://github.com/geeede)                                                    |
+| indonesiska            | [@fniss](https://github.com/gigglylo)                                                    |
 
 ## Bibliotek med öppen källkod
 
